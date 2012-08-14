@@ -1,0 +1,655 @@
+{
+    "fd8e76bf4e85ed20ae9955cb42a54f33": {
+        "opened": [
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\slide.md"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\test.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\hdfs\\org\\apache\\hadoop\\hdfs\\server\\namenode\\NameNode.java"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\Desktop\\Test.java"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\abc.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\\u89e3\u6790\\namenode.doc"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\NOTICE.txt"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\hdfs\\org\\apache\\hadoop\\hdfs\\server\\namenode\\NameNodeMXBean.java"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\pic.JPG"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\eclipse_bin\\mapred-queue-acls.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\share\\hadoop\\templates\\conf\\mapred-queue-acls.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\packages\\templates\\conf\\mapred-queue-acls.xml"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\test\\org\\apache\\hadoop\\hdfs\\server\\namenode\\TestNameNodeCorruptionRecovery.java"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\NewTheme\\Monokai GX.tmTheme"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\NewTheme\\Made of Code GX.tmTheme"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\NewTheme\\Made of Code.tmTheme"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\GBK Encoding Support\\tmp\\Default+%28OSX%29.sublime-keymap                C%3A%5CUsers%5Cgaoxiao%5CAppData%5CRoaming%5CSublime+Text+2%5CPackages%5CMarkdownEditing%5CDefault+%28OSX%29.sublime-keymap"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\GBK Encoding Support\\tmp\\README.md                C%3A%5CUsers%5Cgaoxiao%5CAppData%5CRoaming%5CSublime+Text+2%5CPackages%5CMarkdownEditing%5CREADME.md"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\MarkdownEditing\\README.md"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\Default.sublime-commands"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\MarkdownEditing\\Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\SmartMarkdown.sublime-settings"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default.sublime-commands"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default (Windows).sublime-mousemap"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default (Windows).sublime-keymap"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\Default.sublime-keymap"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\mapred-queue-acls.xml"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\README.md"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\README.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\log4j.properties"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Default (Windows).sublime-keymap"
+            }
+        ]
+    }, 
+    "global": {
+        "opened": [
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\slide.md"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\test.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\hdfs\\org\\apache\\hadoop\\hdfs\\server\\namenode\\NameNode.java"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\Desktop\\Test.java"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\abc.js"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\\u89e3\u6790\\namenode.doc"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\NOTICE.txt"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\hdfs\\org\\apache\\hadoop\\hdfs\\server\\namenode\\NameNodeMXBean.java"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\test\\pic.JPG"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\eclipse_bin\\mapred-queue-acls.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\share\\hadoop\\templates\\conf\\mapred-queue-acls.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\packages\\templates\\conf\\mapred-queue-acls.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\\u89e3\u6790\\eclipse \u914d\u7f6e\u6ce8\u610f\u4e8b\u9879.txt"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\contrib\\eclipse-plugin\\src\\java\\org\\apache\\hadoop\\eclipse\\MapReduceNature.java"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\bin\\hadoop"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\hdfs-site.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\docs\\api\\org\\apache\\hadoop\\mapred\\JobEndNotifier.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\docs\\api\\org\\apache\\hadoop\\streaming\\Environment.html"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\test\\org\\apache\\hadoop\\hdfs\\server\\namenode\\TestNameNodeCorruptionRecovery.java"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\NewTheme\\Monokai GX.tmTheme"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\NewTheme\\Made of Code GX.tmTheme"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\NewTheme\\Made of Code.tmTheme"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\GBK Encoding Support\\tmp\\Default+%28OSX%29.sublime-keymap                C%3A%5CUsers%5Cgaoxiao%5CAppData%5CRoaming%5CSublime+Text+2%5CPackages%5CMarkdownEditing%5CDefault+%28OSX%29.sublime-keymap"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\GBK Encoding Support\\tmp\\README.md                C%3A%5CUsers%5Cgaoxiao%5CAppData%5CRoaming%5CSublime+Text+2%5CPackages%5CMarkdownEditing%5CREADME.md"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\MarkdownEditing\\README.md"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\Default.sublime-commands"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\MarkdownEditing\\Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\SmartMarkdown.sublime-settings"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default.sublime-commands"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default (Windows).sublime-mousemap"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default (Windows).sublime-keymap"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SublimeCodeIntel\\Default (OSX).sublime-keymap"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\Default.sublime-keymap"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\mapred-queue-acls.xml"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\README.md"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\README.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\log4j.properties"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Default (Windows).sublime-keymap"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\mapred-site.xml"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\examples\\base.md"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\package-metadata.json"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\Default.sublime-commands"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\MarkdownPreview.py"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Preferences.sublime-settings"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "D:\\opt\\logs"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\hadoop-env.sh"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Default\\Preferences.sublime-settings"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\MarkdownEditing\\MultiMarkdown.sublime-settings"
+            }, 
+            {
+                "index": 8, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\MarkdownEditing\\Markdown.sublime-settings"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\readme.md"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\Desktop\\Markdown-2.2.0\\setup.py"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\Desktop\\Markdown-2.2.0\\README.md"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Default\\Default (Windows).sublime-keymap"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\examples\\base.html"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\package-metadata.json"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Main.sublime-menu"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Edit History.pyc"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Edit History.py"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\package-metadata.json"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Default.sublime-commands"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Context.sublime-menu"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Readme.markdown"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\File History\\Default.sublime-keymap"
+            }
+        ]
+    }, 
+    "1625748e9e0bc70c59628fb8afddc2a1": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\\u89e3\u6790\\eclipse \u914d\u7f6e\u6ce8\u610f\u4e8b\u9879.txt"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\src\\contrib\\eclipse-plugin\\src\\java\\org\\apache\\hadoop\\eclipse\\MapReduceNature.java"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "D:\\opt\\logs"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Default (Windows).sublime-keymap"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\README.md"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\hadoop-env.sh"
+            }, 
+            {
+                "index": 1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\log4j.properties"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\mapred-site.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\bin\\hadoop"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\conf\\hdfs-site.xml"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\docs\\api\\org\\apache\\hadoop\\mapred\\JobEndNotifier.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "E:\\code\\hadoop\\docs\\api\\org\\apache\\hadoop\\streaming\\Environment.html"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\README.md"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\readme.md"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\Default.sublime-keymap"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\SmartMarkdown\\SmartMarkdown.sublime-settings"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\Desktop\\Markdown-2.2.0\\setup.py"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\Desktop\\Markdown-2.2.0\\README.md"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Default\\Default (Windows).sublime-keymap"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\examples\\base.md"
+            }, 
+            {
+                "index": 7, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\examples\\base.html"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\Desktop\\Test.java"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\User\\Preferences.sublime-settings"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\package-metadata.json"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Slideshow\\Default.sublime-commands"
+            }, 
+            {
+                "index": 5, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\Default.sublime-commands"
+            }, 
+            {
+                "index": 6, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Markdown Preview\\package-metadata.json"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Main.sublime-menu"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Edit History.pyc"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Edit History.py"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\package-metadata.json"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "C:\\Users\\gaoxiao\\AppData\\Roaming\\Sublime Text 2\\Packages\\Edit History\\Default.sublime-commands"
+            }
+        ]
+    }
+}

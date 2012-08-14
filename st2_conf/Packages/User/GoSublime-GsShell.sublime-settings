@@ -1,0 +1,13 @@
+{
+	"cmd_hist":
+	{
+		"/home/dell":
+		[
+			"go run"
+		],
+		"C:\\Users\\gaoxiao\\Desktop":
+		[
+			"go get MarGo"
+		]
+	}
+}

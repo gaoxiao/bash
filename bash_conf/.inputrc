@@ -1,0 +1,9 @@
+"\C-j": menu-complete
+"\C-k": menu-complete-backward
+
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+set show-all-if-ambiguous on
+
+"\C-r": reverse-search-history 
+"\C-t": forward-search-history 
