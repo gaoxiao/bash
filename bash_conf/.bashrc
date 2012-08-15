@@ -113,4 +113,6 @@ export PATH=/opt/hadoop/bin:$PATH
 alias na='nautilus . &'
 alias gae='python /opt/google_appengine/goagent/local/proxy.py > /tmp/gae.log 2>&1 &'
 alias hconsole='/mnt/hgfs/vmshare/HConsole/start_console.sh'
-alias sublime='/home/gaoxiao/src/sublime/sublime_text'
+# alias sublime='/opt/ST2/sublime_text'
+
+cowsay -f $(ls /usr/share/cowsay/cows/ | shuf -n1) $(fortune)
