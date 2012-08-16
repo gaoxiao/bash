@@ -7,5 +7,6 @@
 			"save": true,
 			"path": "/tmp"
 	    }
-    }
+    },
+	{ "keys": ["ctrl+alt+f"], "command": "reindent" }
 ]
