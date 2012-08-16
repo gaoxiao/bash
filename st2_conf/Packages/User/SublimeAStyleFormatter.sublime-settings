@@ -1,0 +1,20 @@
+{{{
+{
+    "settings": 
+    {
+        "AStyleFormatter": 
+        {
+            "options_c":
+            {
+                "use_only_additional_options": true,
+                "additional_options_file": "/path/to/your/astylerc/for/c"
+            },
+            "options_c++":
+            {
+                "use_only_additional_options": true,
+                "additional_options_file": "/path/to/your/astylerc/for/c++"
+            }
+        }
+    }
+}
+}}}
