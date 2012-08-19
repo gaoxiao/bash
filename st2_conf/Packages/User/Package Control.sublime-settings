@@ -1,11 +1,10 @@
 {
-	"auto_upgrade_last_run": 1344943897,
+	"auto_upgrade_last_run": 1345082525,
 	"installed_packages":
 	[
 		"Clipboard History",
 		"ConvertToUTF8",
 		"Display Functions (Java)",
-		"EclipseJavaFormatter",
 		"Edit History",
 		"File History",
 		"GBK Encoding Support",
