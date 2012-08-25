@@ -1,0 +1,12 @@
+[
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
+	{  
+		"keys": ["ctrl+alt+m"], "command": "markdown_slideshow",
+		"args": {
+			"theme": "default",
+			"save": true,
+			"path": "/tmp"
+	    }
+    },
+	{ "keys": ["ctrl+alt+f"], "command": "reindent" }
+]

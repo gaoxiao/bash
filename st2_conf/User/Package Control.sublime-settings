@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": 1345812525,
+	"installed_packages":
+	[
+		"Clipboard History",
+		"ConvertToUTF8",
+		"Display Functions (Java)",
+		"Edit History",
+		"GBK Encoding Support",
+		"Git",
+		"Go Build",
+		"GoSublime",
+		"Markdown Preview",
+		"Markdown Slideshow",
+		"Markdown Todo",
+		"MarkdownEditing",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"SublimeBlockCursor",
+		"SublimeJava",
+		"Theme - Soda",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"http://github.com/ttscoff/MarkdownEditing"
+	]
+}
