@@ -1,5 +1,5 @@
 "\C-o": menu-complete
-"\C-p": menu-complete-backward
+"\C-i": menu-complete-backward
 # "\C-k": menu-complete-backward
 
 "\e[A": history-search-backward
