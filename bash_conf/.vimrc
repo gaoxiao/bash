@@ -136,16 +136,16 @@ map <F3> :tabnew .<CR>
 "打开树状文件目录  
 map <C-F3> \be
 
-"gaoxiao add F6 保存， ctrl + F6 保存并退出
-map <F6> :w <CR>
-map <C-F6> :wq <CR>
+"gaoxiao add F6 tabnext， ctrl + F6 tabpervious
+map <F6> :tabnext <CR>
+map <C-F6> :tabprevious <CR>
 
 "C，C++ 按F5编译运行
 map <F5> :call CompileRunGcc()<CR>
 func! CompileRunGcc()
 	exec "w"
 	if &filetype == 'c'
-""		exec "!g++ % -o %<"
+		""		exec "!g++ % -o %<"
 		exec "!gcc % -o %<"
 		exec "! ./%<"
 	elseif &filetype == 'cpp'
@@ -159,7 +159,7 @@ func! CompileRunGcc()
 	elseif &filetype == 'py'
 		exec "!python %"
 		exec "!python %<"
-	"gaoxiao add  for go	
+		"gaoxiao add  for go	
 	elseif &filetype == 'go'
 		exec "!go run %"
 	endif
